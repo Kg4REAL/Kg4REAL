@@ -1,49 +1,26 @@
-## Hi there 👋, I'm Ibrahima
+# 👋 Hi, I'm Ibrahima Dia
 
 🎓 Cybersecurity student – Networks & Systems  
 🐍 Python | C  
 🔐 Pentest & automation tools  
-🧪 Labs: EVE-NG, Linux, networking, security  
+🧪 Labs: EVE-NG, Linux, networking  
 📍 Learning by doing
 
-## What I work on
-- Pentest scripts & small tools
+## Focus
+- Pentest scripts & small security tools
 - Network & system labs
 - Security automation
-- Learning by building, not just reading
 
-## 🌱 Currently learning
-- Networking fundamentals (VLANs, routing, redundancy)
+## Currently learning
+- Networking (VLANs, routing, redundancy)
 - Linux & system internals
 - Offensive security basics
-- Python for cybersecurity
-- Network & system labs (EVE-NG)
-- Pentest scripts and small security tools
 
-## 👯 Looking to collaborate on
-- Beginner-friendly cybersecurity projects
-- Network labs & automation
-- Open-source security tools
-
-## 🤔 Looking for help with
-- Improving pentest methodologies
-- Writing cleaner and more secure code
-- Understanding real-world network architectures
-
-## 💬 Ask me about
-- Linux 
-- Networking & systems
-- EVE-NG labs
-- Python scripting for security
-
-## ⚡ Focus
-Build. Break. Learn. Repeat. Ctf
-
-## Tools & tech
+## Tools
 Linux | Python | C | Bash | Git | Networking | EVE-NG | Kali
 
-## 📬 LinkedIn
-- www.linkedin.com/in/ibrahima-dia-cyber
+📬 LinkedIn: https://www.linkedin.com/in/ibrahima-dia-cyber
+
 <!--
 **Kg4REAL/Kg4REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
