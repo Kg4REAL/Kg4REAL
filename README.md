@@ -12,7 +12,6 @@
 - Security automation
 - Learning by building, not just reading
 
-
 ## 🌱 Currently learning
 - Networking fundamentals (VLANs, routing, redundancy)
 - Linux & system internals
@@ -32,7 +31,7 @@
 - Understanding real-world network architectures
 
 ## 💬 Ask me about
-- Linux basics
+- Linux 
 - Networking & systems
 - EVE-NG labs
 - Python scripting for security
@@ -43,6 +42,8 @@ Build. Break. Learn. Repeat. Ctf
 ## Tools & tech
 Linux | Python | C | Bash | Git | Networking | EVE-NG | Kali
 
+## 📬 LinkedIn
+- www.linkedin.com/in/ibrahima-dia-cyber
 <!--
 **Kg4REAL/Kg4REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
