@@ -1,37 +1,52 @@
-# 👋 Hi, I'm Ibrahima Dia
+<h1 align="center">👋 Hey, I'm Ibrahima Dia — Kg4REAL</h1>
 
-🎓 Cybersecurity student – Networks & Systems  
-🐍 Python | C  
-🔐 Pentest & automation tools  
-🧪 Labs: EVE-NG, Linux, networking  
-📍 Learning by doing
+<p align="center">
+  <b>Cybersecurity Student · Purple Team Path · Networks & Systems</b><br>
+  Dakar, Sénégal 🇸🇳 | Building offensive & defensive skills from the ground up
+</p>
 
-## Focus
-- Pentest scripts & small security tools
-- Network & system labs
-- Security automation
+---
 
-## Currently learning
-- Networking (VLANs, routing, redundancy)
-- Linux & system internals
-- Offensive security basics
+## 🧠 About me
 
-## Tools
-Linux | Python | C | Bash | Git | Networking | EVE-NG | Kali
+I'm a 2nd-year Networks & Systems student at MIT University Dakar, 
+specializing in cybersecurity with a focus on **Purple Team operations** — 
+thinking like an attacker, responding like a defender.
 
-📬 LinkedIn: https://www.linkedin.com/in/ibrahima-dia-cyber
+I build real-world labs, write offensive tooling in Python/C, 
+and document everything so others can learn from it.
 
-<!--
-**Kg4REAL/Kg4REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏗️ Flagship Project — IRON-GRID
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Enterprise SOC simulation built from scratch on EVE-NG
+
+- 🔴 **Red Team**: VLAN pivoting, GUEST → internal attacks, brute-force scenarios  
+- 🔵 **Blue Team**: Wazuh SIEM, FortiGate HA, Zero-Trust architecture  
+- 🟣 **Purple**: Attack simulation → detection → rule tuning  
+
+📁 [`IRON-GRID-PROJET`](https://github.com/Kg4REAL/IRON-GRID-PROJET)
+
+---
+
+## 🛠️ Tools & Stack
+
+| Offensive | Defensive | Dev | Infra |
+|-----------|-----------|-----|-------|
+| Kali · Nmap · Bettercap · Scapy | Wazuh · Wireshark · FortiGate | Python · C · Bash | EVE-NG · Docker · Linux |
+
+---
+
+## 📌 Currently working on
+
+- 🎯 Cert path: **eJPT → BTL1 → OSCP**
+- 🔧 Publishing original pentest tools
+- 🏴 CTF competitions (HackTheBox, TryHackMe)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahima--dia--cyber-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahima-dia-cyber)
+[![GitHub](https://img.shields.io/badge/GitHub-Kg4REAL-black?logo=github)](https://github.com/Kg4REAL)
