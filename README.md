@@ -9,7 +9,7 @@
 
 ## 🧠 About me
 
-I'm a 2nd-year Networks & Systems student at MIT University Dakar, 
+I'm Networks & Systems student at MIT University Dakar, 
 specializing in cybersecurity with a focus on **Purple Team operations** — 
 thinking like an attacker, responding like a defender.
 
