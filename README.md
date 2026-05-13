@@ -42,7 +42,7 @@ and document everything so others can learn from it.
 
 - 🎯 Cert path: **eJPT → BTL1 → OSCP**
 - 🔧 Publishing original pentest tools
-- 🏴 CTF competitions (HackTheBox, TryHackMe)
+- 🏴 CTF competitions (HackTheBox, TryHackMe and Rootme)
 
 ---
 
