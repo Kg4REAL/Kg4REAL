@@ -1,149 +1,89 @@
-<h1 align="center">🔐 Ibrahima Dia — Kg4REAL</h1>
+<h1 align="center">Ibrahima Dia — Kg4REAL</h1>
 
 <p align="center">
-  <b>Cybersecurity Engineer · Purple Team Specialist · Zero-Trust Architecture</b><br>
-  📍 Dakar, Sénégal 🇸🇳 | 🌍 Building enterprise-grade security labs
+  <b>Cybersecurity Engineer · Purple Team · Zero-Trust Architecture</b><br>
+  📍 Dakar, Sénégal 🇸🇳 · Open to opportunities 
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahima--dia--cyber-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ibrahima-dia-cyber)
-[![GitHub](https://img.shields.io/badge/GitHub-Kg4REAL-181717?style=for-the-badge&logo=github)](https://github.com/Kg4REAL)
-[![Email](https://img.shields.io/badge/Email-ibrahimadia759%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:ibrahimadia759@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/ibrahima-dia-cyber"><img src="https://img.shields.io/badge/LinkedIn-ibrahima--dia--cyber-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/Kg4REAL"><img src="https://img.shields.io/badge/GitHub-Kg4REAL-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:ibrahimadia759@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimadia759%40gmail.com-EA4335?style=flat-square&logo=gmail" /></a>
+</p>
 
 ---
 
-## 🎯 About Me
+## About
 
-I'm a **cybersecurity specialist** with a focus on **Purple Team operations** — thinking like an attacker, defending like a blue teamer. I design and build **production-grade security labs**, develop **offensive security tools**, and document **real-world attack-defense scenarios** for learning and knowledge sharing.
-
-**My expertise:**
-- 🛡️ **Zero-Trust Architecture** — Defense-in-depth security models
-- ⚔️ **Penetration Testing** — Network exploitation, lateral movement, privilege escalation
-- 🔧 **Tool Development** — Python/C security utilities and automation
-- 📊 **SIEM & Threat Detection** — Wazuh integration, log analysis, active response
-- 🏗️ **Enterprise Networks** — Cisco, FortiGate, redundancy, SD-WAN
-- 🎓 **Documentation & Mentoring** — Teaching security through real labs
+Purple Team specialist — I think like an attacker and defend like a blue teamer. I build production-grade security labs, develop offensive tools, and document real-world attack-defense scenarios. Currently focused on AD exploitation, SIEM deployment, and enterprise network hardening.
 
 ---
 
-## 🚀 Flagship Projects
+## Projects
 
-### 🛡️ IRON-GRID — Enterprise Network Lab ⭐⭐⭐⭐⭐
+### IRON-GRID — Enterprise Network Lab ⭐⭐⭐⭐⭐
+> Production-grade hardened enterprise network with Purple Team operations
 
-> **Production-grade hardened enterprise network with Purple Team operations**
+- Zero-Trust Architecture — FortiGate HA cluster with sub-second failover
+- Wazuh SIEM + XDR — Real-time threat detection and active response  
+- 8 fully documented attack scenarios (recon → privilege escalation)
+- 19,000+ lines of documentation — architecture, configs, findings, mitigations
 
-**What makes it special:**
-- ✅ **Zero-Trust Architecture** — Implicit deny-all, explicit allow-by-exception
-- ✅ **FortiGate HA Cluster** — Active/Passive with sub-second failover
-- ✅ **Wazuh SIEM + XDR** — Real-time threat detection and active response
-- ✅ **8 Attack Scenarios** — Fully documented from recon to privilege escalation
-- ✅ **Attack-Defense Matrix** — What attacks work, what defenses stop them
-- ✅ **19,000+ lines of documentation** — Architecture, configs, findings, mitigations
-
-**Why recruiters love it:** This is **not** a toy project. This is what **senior security engineers** build.
-
-🔗 [**→ View IRON-GRID**](https://github.com/Kg4REAL/IRON-GRID-PROJET)
+**Stack:** FortiGate · EVE-NG · Wazuh · Kali · OpenLDAP · Nginx  
+🔗 [View IRON-GRID](https://github.com/Kg4REAL/IRON-GRID-PROJET)
 
 ---
 
-### 🔐 PentestKit — Web Security Platform
+### PentestKit — Web Security Platform
+> All-in-one penetration testing toolkit deployed on Kubernetes
 
-> **All-in-one penetration testing toolkit with Docker + Kubernetes**
+- JWT Analyzer — detect alg:none, expired tokens, weak secrets
+- Web Recon — IP, WHOIS, DNS enum, header analysis
+- Packet Sniffer — real-time capture with protocol detection
+- PostgreSQL-backed scan history
 
-**Features:**
-- 🔑 **JWT Analyzer** — Detect token vulnerabilities (alg:none, expired, weak secrets)
-- 🌐 **Web Recon** — IP resolution, WHOIS, DNS enum, header analysis
-- 📡 **Packet Sniffer** — Real-time network capture with protocol detection
-- 📊 **Scan History** — PostgreSQL-backed vulnerability tracking
-- 🐳 **Docker & K8s** — Deploy anywhere, scale anywhere
-
-**Tech Stack:** Python · Flask · PostgreSQL · Docker · Kubernetes
-
-🔗 [**→ View PentestKit**](https://github.com/Kg4REAL/PentestKit)
+**Stack:** Python · Flask · PostgreSQL · Docker · Kubernetes  
+🔗 [View PentestKit](https://github.com/Kg4REAL/PentestKit)
 
 ---
 
-### 📚 EVE-NG Network Security Lab
+### CyberRange-ESXi — Purple Team Home Lab 🔧 *in progress*
+> Full Purple Team lab on VMware ESXi — coming soon
 
-> **Enterprise campus network with VLAN hopping attacks & redundancy testing**
-
-**What you learn:**
-- ✅ VLAN hopping attacks (DTP, 802.1Q double-tagging, HSRP spoofing)
-- ✅ Redundancy mechanisms (RSTP, EtherChannel, HSRP, failover)
-- ✅ Lateral movement & privilege escalation
-- ✅ Defense strategies & mitigation
-
-**Tech Stack:** Cisco IOS · EVE-NG · Kali Linux · Nmap · Hydra
-
-🔗 [**→ View EVE-NG Lab**](https://github.com/Kg4REAL/eve-ng-network-security-lab)
+- 3-VLAN network (Kali/Red, Windows AD, Ubuntu SOC)
+- pfSense routing + Wazuh SIEM deployment
+- Vulnerable AD environment for realistic attack scenarios
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Category | Technologies |
-|----------|---|
-| **Offensive** | Kali · Nmap · Hydra · Burp Suite · Metasploit · Scapy |
+| Category | Tools |
+|----------|-------|
+| **Offensive** | Kali · Nmap · Metasploit · Burp Suite · Hydra · Scapy |
 | **Defensive** | Wazuh · FortiGate · UFW · Fail2Ban · CIS Benchmark |
-| **Networking** | Cisco IOS · BGP · OSPF · VLAN · RSTP · EtherChannel · HSRP |
-| **Development** | Python · C · Bash · Flask · SQL |
-| **Infrastructure** | EVE-NG · Docker · Kubernetes · Linux · VirtualBox/KVM |
-| **Security Tools** | Wireshark · Ethereal · tcpdump · OpenSSL |
+| **Networking** | Cisco IOS · pfSense · VLAN · OSPF · SD-WAN · IPSec |
+| **Development** | Python · C · Bash · Flask · PostgreSQL · Docker |
+| **Infrastructure** | VMware ESXi · EVE-NG · Kubernetes · Linux |
+| **Analysis** | Wireshark · tcpdump · Splunk · OpenSSL |
 
 ---
 
-## 🎖️ Certifications & Learning Path
+## Certifications
 
-**Current focus:**
-- 🎯 **eJPT** (eLearnSecurity Junior Penetration Tester) 
-- 🎯 **BTL1** (Bug Bounty Level 1) 
-- 🎯 **OSCP** (Offensive Security Certified Professional) 
-
-**Active CTF competitions:**
-- 🏴 **HackTheBox** — Solving real-world penetration scenarios
-- 🏴 **TryHackMe** — Structured learning paths and challenges
-- 🏴 **Root-Me** — Wargames and advanced exploitation
-
----
----
-
-## 💡 What I'm Working On
-
-- 🔧 **Publishing original pentest tools** — JWT analyzers, network reconaissance automation
-- 📚 **Writing security documentation** — Attack scenarios, defense strategies, lessons learned
-- 🎓 **Building learning resources** — Labs, writeups, tutorials for the security community
-- 🚀 **Contributing to open-source** — Security tools and utilities
+| Cert | Issuer | Status |
+|------|--------|--------|
+| Cybersecurity Analyst | Google | ✅ Obtained |
+| Cybersecurity Analyst | IBM | ✅ Obtained |
+| Python Essentials 1 & 2 · IT Essentials | Cisco | ✅ Obtained |
+| eJPT | eLearnSecurity | ⏳ next|
+| BTL1 | Security Blue Team | 📅 Planned  |
+| OSCP | Offensive Security | 📅 Planned |
 
 ---
 
-## 🎓 Philosophy
-
-> **"Security is not about building walls — it's about understanding attacks so you can defend effectively."**
-
-I believe in:
-- ✅ **Hands-on learning** — Theory is useless without practice
-- ✅ **Transparent documentation** — Everyone deserves to learn security
-- ✅ **Defense-in-depth** — No single tool solves everything
-- ✅ **Continuous improvement** — The threat landscape evolves, so must we
+> *"Security is not about building walls — it's about understanding attacks so you can defend effectively."*
 
 ---
 
-## 📫 Let's Connect
-
-**Have a security question? Want to collaborate? Just say hi!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahima%20Dia-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-dia-cyber)
-[![Email](https://img.shields.io/badge/Email-ibrahimadia759%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimadia759@gmail.com)
-
----
-
-<div align="center">
-
-**Made with ❤️ by Kg4REAL**
-
-*Last updated: May 2026*
-
-</div>
+<div align="center"><sub>Last updated · May 2026</sub></div>
