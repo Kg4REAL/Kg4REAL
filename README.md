@@ -108,15 +108,6 @@ I'm a **cybersecurity specialist** with a focus on **Purple Team operations** �
 - 🏴 **Root-Me** — Wargames and advanced exploitation
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kg4REAL&show_icons=true&theme=github_dark)
-
-</div>
-
 ---
 
 ## 💡 What I'm Working On
