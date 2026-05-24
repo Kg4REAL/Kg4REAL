@@ -98,9 +98,9 @@ I'm a **cybersecurity specialist** with a focus on **Purple Team operations** �
 ## 🎖️ Certifications & Learning Path
 
 **Current focus:**
-- 🎯 **eJPT** (eLearnSecurity Junior Penetration Tester) — Q3 2026
-- 🎯 **BTL1** (Bug Bounty Level 1) — Q4 2026
-- 🎯 **OSCP** (Offensive Security Certified Professional) — 2027
+- 🎯 **eJPT** (eLearnSecurity Junior Penetration Tester) 
+- 🎯 **BTL1** (Bug Bounty Level 1) 
+- 🎯 **OSCP** (Offensive Security Certified Professional) 
 
 **Active CTF competitions:**
 - 🏴 **HackTheBox** — Solving real-world penetration scenarios
