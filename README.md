@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cybersecurity Engineer · Purple Team · Zero-Trust Architecture</b><br>
-  📍 Dakar, Sénégal 🇸🇳 · Open to opportunities 
+  📍 Dakar, Sénégal 🇸🇳 · Open to opportunities
 </p>
 
 <p align="center">
@@ -22,19 +22,36 @@ Purple Team specialist — I think like an attacker and defend like a blue teame
 ## Projects
 
 ### IRON-GRID — Enterprise Network Lab ⭐⭐⭐⭐⭐
+
 > Production-grade hardened enterprise network with Purple Team operations
 
 - Zero-Trust Architecture — FortiGate HA cluster with sub-second failover
-- Wazuh SIEM + XDR — Real-time threat detection and active response  
+- Wazuh SIEM + XDR — Real-time threat detection and active response
 - 8 fully documented attack scenarios (recon → privilege escalation)
 - 19,000+ lines of documentation — architecture, configs, findings, mitigations
 
-**Stack:** FortiGate · EVE-NG · Wazuh · Kali · OpenLDAP · Nginx  
+**Stack:** FortiGate · EVE-NG · Wazuh · Kali · OpenLDAP · Nginx
 🔗 [View IRON-GRID](https://github.com/Kg4REAL/IRON-GRID-PROJET)
 
 ---
 
+### CyberRange-ESXi — Purple Team Home Lab 🔧 *in progress*
+
+> Enterprise Purple Team lab on VMware ESXi — AD, pfSense VLAN segmentation, Wazuh SIEM, full Red/Blue Team scenarios with detection rules & MITRE ATT&CK mapping
+
+- 3-VLAN segmented network (Kali/Red, Windows AD, Ubuntu SOC) behind pfSense
+- Active Directory environment with intentional misconfigurations for realistic attack chains
+- Wazuh SIEM ingesting Windows Security events, Sysmon, and syslog across all zones
+- 3 of 7 scenarios documented end-to-end (Red Team execution + Blue Team detection + MITRE mapping): Recon & Password Spraying, Kerberoasting, AS-REP Roasting
+- Privilege Escalation, LLMNR Poisoning, Persistence and Web Exploitation scenarios in active development
+
+**Stack:** VMware ESXi · pfSense · Windows Server 2022 · Wazuh · Impacket · NetExec
+🔗 [View CyberRange-ESXi](https://github.com/Kg4REAL/CyberRange-ESXi)
+
+---
+
 ### PentestKit — Web Security Platform
+
 > All-in-one penetration testing toolkit deployed on Kubernetes
 
 - JWT Analyzer — detect alg:none, expired tokens, weak secrets
@@ -42,17 +59,8 @@ Purple Team specialist — I think like an attacker and defend like a blue teame
 - Packet Sniffer — real-time capture with protocol detection
 - PostgreSQL-backed scan history
 
-**Stack:** Python · Flask · PostgreSQL · Docker · Kubernetes  
+**Stack:** Python · Flask · PostgreSQL · Docker · Kubernetes
 🔗 [View PentestKit](https://github.com/Kg4REAL/PentestKit)
-
----
-
-### CyberRange-ESXi — Purple Team Home Lab 🔧 *in progress*
-> Full Purple Team lab on VMware ESXi — coming soon
-
-- 3-VLAN network (Kali/Red, Windows AD, Ubuntu SOC)
-- pfSense routing + Wazuh SIEM deployment
-- Vulnerable AD environment for realistic attack scenarios
 
 ---
 
@@ -60,7 +68,7 @@ Purple Team specialist — I think like an attacker and defend like a blue teame
 
 | Category | Tools |
 |----------|-------|
-| **Offensive** | Kali · Nmap · Metasploit · Burp Suite · Hydra · Scapy |
+| **Offensive** | Kali · Nmap · Impacket · NetExec · Metasploit · Burp Suite · Hydra · Scapy |
 | **Defensive** | Wazuh · FortiGate · UFW · Fail2Ban · CIS Benchmark |
 | **Networking** | Cisco IOS · pfSense · VLAN · OSPF · SD-WAN · IPSec |
 | **Development** | Python · C · Bash · Flask · PostgreSQL · Docker |
@@ -75,9 +83,11 @@ Purple Team specialist — I think like an attacker and defend like a blue teame
 |------|--------|--------|
 | Cybersecurity Analyst | Google | ✅ Obtained |
 | Cybersecurity Analyst | IBM | ✅ Obtained |
+| CPS — CCNA · Windows Server · FortiGate · VMware ESXi · VoIP · Network Security | Groupe SEMOS | ✅ Obtained |
 | Python Essentials 1 & 2 · IT Essentials | Cisco | ✅ Obtained |
-| eJPT | eLearnSecurity | ⏳ next|
-| BTL1 | Security Blue Team | 📅 Planned  |
+| eJPT | eLearnSecurity | ⏳ Next |
+| BTL1 | Security Blue Team | 📅 Planned |
+| Security+ / CySA+ | CompTIA | 📅 Planned |
 | OSCP | Offensive Security | 📅 Planned |
 
 ---
@@ -86,4 +96,4 @@ Purple Team specialist — I think like an attacker and defend like a blue teame
 
 ---
 
-<div align="center"><sub>Last updated · May 2026</sub></div>
+<div align="center"><sub>Last updated · July 2026</sub></div>
